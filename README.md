@@ -30,13 +30,13 @@ $ authors = ["John Smith <john@example.com>"]
 - Go to base settings (project_name/conf/settings/base.py) and choose wheter you want to hide sensitive settings in config.json or in the environment.
 
 Required data: 
-* NAME_DB = database name (project name by default)
-* USER_DB = username-access to database
-* PASS_DB = user password-access to database
+> NAME_DB = database name (project name by default)
+> USER_DB = username-access to database
+> PASS_DB = user password-access to database
 
 Extra data:
-* HOST_DB = database host
-* PORT_DB = database port
+> HOST_DB = database host
+> PORT_DB = database port
 
 
 - Prepare project to run.
