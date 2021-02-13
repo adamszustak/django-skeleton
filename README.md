@@ -31,11 +31,14 @@ $ authors = ["John Smith <john@example.com>"]
 
 Required data: 
 > NAME_DB = database name (project name by default)
+
 > USER_DB = username-access to database
+
 > PASS_DB = user password-access to database
 
 Extra data:
 > HOST_DB = database host
+
 > PORT_DB = database port
 
 
