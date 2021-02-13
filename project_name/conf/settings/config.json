@@ -1,0 +1,8 @@
+{
+    "SECRET_KEY": "{{ secret_key }}",
+    "NAME_DB": "{{ project_name }}",
+    "USER_DB": "",
+    "PASS_DB": "",
+    "HOST_DB": "",
+    "PORT_DB": "" 
+}
