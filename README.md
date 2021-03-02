@@ -10,7 +10,7 @@ Contains ready-to-go files for working with **poetry, tox, pytest, pre-commit, d
 
 ```
 $ django-admin startproject --template https://github.com/ImustAdmit/django-skeleton/archive/main.zip \
---name=config.json,pyproject.toml,pytest.ini <your-project-name>
+--name=config.json,pyproject.toml,pytest.ini, .flake8 <your-project-name>
 ```
 
 - Creating virtual environment using poetry and adding required packages.

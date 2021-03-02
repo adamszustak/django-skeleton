@@ -4,7 +4,6 @@ source = ['{{ project_name }}']
 omit = [
   '*/migrations/*',
   '*/manage.py',
-  '*/tests/*',
   '*/asgi.py',
   '*/wsgi.py',
   '*/settings/*',
